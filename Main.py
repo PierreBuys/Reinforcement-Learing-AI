@@ -149,7 +149,6 @@ while running:
           pygame.display.flip()
           time.sleep(1.5)
           running = False
-
   
   screen.blit(rocket.IMG, (rocket.X,rocket.Y))
 
